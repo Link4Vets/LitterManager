@@ -60,7 +60,29 @@ namespace LitterManager
                                   ContactAdministratorsAuthorizationHandler>();
 
             services.AddSingleton<IAuthorizationHandler,
+                                  ContactManagerAuthorizationHandler>();
+
+            services.AddScoped<IAuthorizationHandler,
+                                  LitterIsOwnerAuthorizationHandler>();
+
+            services.AddSingleton<IAuthorizationHandler,
+                                  LitterAdministratorsAuthorizationHandler>();
+
+            services.AddSingleton<IAuthorizationHandler,
                                   LitterManagerAuthorizationHandler>();
+
+            services.AddScoped<IAuthorizationHandler,
+                                  InvitationIsOwnerAuthorizationHandler>();
+
+            services.AddScoped<IAuthorizationHandler,
+                                  InvitationIsSenderAuthorizationHandler>();
+
+            services.AddSingleton<IAuthorizationHandler,
+                                  InvitationAdministratorsAuthorizationHandler>();
+
+            services.AddSingleton<IAuthorizationHandler,
+                                  ContactManagerAuthorizationHandler>();
+
         }
         #endregion
 

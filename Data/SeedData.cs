@@ -32,11 +32,13 @@ namespace LitterManager.Data
                 var adminID = await EnsureUser(serviceProvider, testUserPw, "admin@contoso.com");
                 await EnsureRole(serviceProvider, adminID, Constants.ContactAdministratorsRole);
                 await EnsureRole(serviceProvider, adminID, Constants.LitterAdministratorsRole);
+                await EnsureRole(serviceProvider, adminID, Constants.InvitationAdministratorsRole);
 
                 // allowed user can create and edit contacts that they create
                 var managerID = await EnsureUser(serviceProvider, testUserPw, "manager@contoso.com");
                 await EnsureRole(serviceProvider, managerID, Constants.ContactManagersRole);
                 await EnsureRole(serviceProvider, managerID, Constants.LitterManagersRole);
+                await EnsureRole(serviceProvider, managerID, Constants.InvitationManagersRole);
 
                 SeedDB(context, adminID);
             }

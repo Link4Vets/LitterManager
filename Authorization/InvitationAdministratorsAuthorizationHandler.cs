@@ -5,13 +5,13 @@ using Microsoft.AspNetCore.Authorization.Infrastructure;
 
 namespace LitterManager.Authorization
 {
-    public class LitterAdministratorsAuthorizationHandler
-                    : AuthorizationHandler<OperationAuthorizationRequirement, Contact>
+    public class InvitationAdministratorsAuthorizationHandler
+                    : AuthorizationHandler<OperationAuthorizationRequirement, Invitation>
     {
         protected override Task HandleRequirementAsync(
                                               AuthorizationHandlerContext context,
                                     OperationAuthorizationRequirement requirement, 
-                                     Contact resource)
+                                     Invitation resource)
         {
             if (context.User == null)
             {
@@ -19,7 +19,7 @@ namespace LitterManager.Authorization
             }
 
             // Administrators can do anything.
-            if (context.User.IsInRole(Constants.LitterAdministratorsRole))
+            if (context.User.IsInRole(Constants.InvitationAdministratorsRole))
             {
                 context.Succeed(requirement);
             }
