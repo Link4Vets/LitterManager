@@ -1,0 +1,3482 @@
+﻿[
+  {
+    "FciId": 1,
+    "GroupId": 7,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Britse en Ierse pointers en setters",
+    
+    "BreedName": "Pointer"
+  },
+  {
+    "FciId": 2,
+    "GroupId": 7,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Britse en Ierse pointers en setters",
+    
+    "BreedName": "Engelse setter"
+  },
+  {
+    "FciId": 3,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Kerry blue-terriër"
+  },
+  {
+    "FciId": 4,
+    "GroupId": 3,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Kleine terriërs",
+    
+    "BreedName": "Cairnterriër"
+  },
+  {
+    "FciId": 5,
+    "GroupId": 8,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Opjagende honden",
+    
+    "BreedName": "Engelse cockerspaniël"
+  },
+  {
+    "FciId": 6,
+    "GroupId": 7,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Britse en Ierse pointers en setters",
+    
+    "BreedName": "Gordon setter"
+  },
+  {
+    "FciId": 7,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Airedaleterriër"
+  },
+  {
+    "FciId": 8,
+    "GroupId": 3,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Kleine terriërs",
+    
+    "BreedName": "Australische terriër"
+  },
+  {
+    "FciId": 9,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Bedlingtonterriër"
+  },
+  {
+    "FciId": 10,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Borderterriër"
+  },
+  {
+    "FciId": 11,
+    "GroupId": 3,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Terriërs van het type buldog",
+    
+    "BreedName": "Bulterriër"
+  },
+  {
+    "FciId": 12,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Foxterriër - gladhaar"
+  },
+  {
+    "FciId": 13,
+    "GroupId": 3,
+    "SectionId": 4,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Terriërs van het type dwerghond",
+    
+    "BreedName": "Engelse toyterriër"
+  },
+  {
+    "FciId": 14,
+    "GroupId": 5,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische waak- en herdershonden",
+    
+    "BreedName": "Västgötaspets"
+  },
+  {
+    "FciId": 15,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Belgische herder"
+  },
+  {
+    "FciId": 16,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Old English Sheepdog (bobtail)"
+  },
+  {
+    "FciId": 17,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Griffon nivernais"
+  },
+  {
+    "FciId": 19,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Briquet griffon vendéen"
+  },
+  {
+    "FciId": 20,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Ariégeois"
+  },
+  {
+    "FciId": 21,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Grand Gascon saintongeois"
+  },
+  {
+    "FciId": 22,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Grand bleu de Gascogne"
+  },
+  {
+    "FciId": 24,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Poitevin"
+  },
+  {
+    "FciId": 25,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Billy"
+  },
+  {
+    "FciId": 28,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Chien d'Artois"
+  },
+  {
+    "FciId": 30,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Porcelaine"
+  },
+  {
+    "FciId": 31,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Petit bleu de Gascogne"
+  },
+  {
+    "FciId": 32,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Griffon bleu de Gascogne"
+  },
+  {
+    "FciId": 33,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Grand basset griffon vendéen"
+  },
+  {
+    "FciId": 34,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Basset artésien normand"
+  },
+  {
+    "FciId": 35,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Basset bleu de Gascogne"
+  },
+  {
+    "FciId": 36,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Basset fauve de Bretagne"
+  },
+  {
+    "FciId": 37,
+    "GroupId": 8,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Waterhonden",
+    
+    "BreedName": "Portugese waterhond"
+  },
+  {
+    "FciId": 38,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Welsh corgi Cardigan"
+  },
+  {
+    "FciId": 39,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Welsh corgi Pembroke"
+  },
+  {
+    "FciId": 40,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Irish soft-coated wheaten terrier"
+  },
+  {
+    "FciId": 41,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Šarplaninac"
+  },
+  {
+    "FciId": 42,
+    "GroupId": 5,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische jachthonden",
+    
+    "BreedName": "Jämthund"
+  },
+  {
+    "FciId": 43,
+    "GroupId": 5,
+    "SectionId": 6,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Oertypen",
+    
+    "BreedName": "Basenji"
+  },
+  {
+    "FciId": 44,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Beauceron"
+  },
+  {
+    "FciId": 45,
+    "GroupId": 2,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Sennenhonden",
+    
+    "BreedName": "Berner sennenhond"
+  },
+  {
+    "FciId": 46,
+    "GroupId": 2,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Sennenhonden",
+    
+    "BreedName": "Appenzeller sennenhond"
+  },
+  {
+    "FciId": 47,
+    "GroupId": 2,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Sennenhonden",
+    
+    "BreedName": "Entlebucher sennenhond"
+  },
+  {
+    "FciId": 48,
+    "GroupId": 5,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische jachthonden",
+    
+    "BreedName": "Karelische berenhond"
+  },
+  {
+    "FciId": 49,
+    "GroupId": 5,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische jachthonden",
+    
+    "BreedName": "Finse spits"
+  },
+  {
+    "FciId": 50,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Newfoundlander"
+  },
+  {
+    "FciId": 51,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Finse brak"
+  },
+  {
+    "FciId": 52,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Ogar polski"
+  },
+  {
+    "FciId": 53,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Komondor"
+  },
+  {
+    "FciId": 54,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Kuvasz"
+  },
+  {
+    "FciId": 55,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Puli"
+  },
+  {
+    "FciId": 56,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Pumi"
+  },
+  {
+    "FciId": 57,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Vizsla - korthaar"
+  },
+  {
+    "FciId": 58,
+    "GroupId": 2,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Sennenhonden",
+    
+    "BreedName": "Grote Zwitserse sennenhond"
+  },
+  {
+    "FciId": 59,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Schweizer Laufhund"
+  },
+  {
+    "FciId": 60,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Schweizerischer Niederlaufhund"
+  },
+  {
+    "FciId": 61,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Sint-bernard"
+  },
+  {
+    "FciId": 62,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Steirische rauhhaarbracke"
+  },
+  {
+    "FciId": 63,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Brandlbracke"
+  },
+  {
+    "FciId": 64,
+    "GroupId": 2,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Pinschers en schnauzers",
+    
+    "BreedName": "Oostenrijkse pinscher"
+  },
+  {
+    "FciId": 65,
+    "GroupId": 9,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Bichons",
+    
+    "BreedName": "Maltezer"
+  },
+  {
+    "FciId": 66,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Griffon fauve de Bretagne"
+  },
+  {
+    "FciId": 67,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Petit basset griffon vendéen"
+  },
+  {
+    "FciId": 68,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Tiroler brak"
+  },
+  {
+    "FciId": 70,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Lakelandterriër"
+  },
+  {
+    "FciId": 71,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Manchesterterriër"
+  },
+  {
+    "FciId": 72,
+    "GroupId": 3,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Kleine terriërs",
+    
+    "BreedName": "Norwichterriër"
+  },
+  {
+    "FciId": 73,
+    "GroupId": 3,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Kleine terriërs",
+    
+    "BreedName": "Schotse terriër"
+  },
+  {
+    "FciId": 74,
+    "GroupId": 3,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Kleine terriërs",
+    
+    "BreedName": "Sealyhamterriër"
+  },
+  {
+    "FciId": 75,
+    "GroupId": 3,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Kleine terriërs",
+    
+    "BreedName": "Skyeterriër"
+  },
+  {
+    "FciId": 76,
+    "GroupId": 3,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Terriërs van het type buldog",
+    
+    "BreedName": "Staffordshire-bulterriër"
+  },
+  {
+    "FciId": 77,
+    "GroupId": 9,
+    "SectionId": 9,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Continentale dwergspaniëls",
+    
+    "BreedName": "Épagneul nain continental"
+  },
+  {
+    "FciId": 78,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Welsh terriër"
+  },
+  {
+    "FciId": 80,
+    "GroupId": 9,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Belgische dwerghonden",
+    
+    "BreedName": "Griffon bruxellois"
+  },
+  {
+    "FciId": 81,
+    "GroupId": 9,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Belgische dwerghonden",
+    
+    "BreedName": "Griffon belge"
+  },
+  {
+    "FciId": 82,
+    "GroupId": 9,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Belgische dwerghonden",
+    
+    "BreedName": "Petit brabançon"
+  },
+  {
+    "FciId": 83,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Schipperke"
+  },
+  {
+    "FciId": 84,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Bloedhond"
+  },
+  {
+    "FciId": 85,
+    "GroupId": 3,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Kleine terriërs",
+    
+    "BreedName": "West Highland white terrier"
+  },
+  {
+    "FciId": 86,
+    "GroupId": 3,
+    "SectionId": 4,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Terriërs van het type dwerghond",
+    
+    "BreedName": "Yorkshireterriër"
+  },
+  {
+    "FciId": 87,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Catalaanse herder"
+  },
+  {
+    "FciId": 88,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Sheltie"
+  },
+  {
+    "FciId": 89,
+    "GroupId": 5,
+    "SectionId": 7,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Jagende oertypen",
+    
+    "BreedName": "Podenco ibicenco"
+  },
+  {
+    "FciId": 90,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Perdigueiro de Burgos"
+  },
+  {
+    "FciId": 91,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Mastín español"
+  },
+  {
+    "FciId": 92,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Mastín del Pirineo"
+  },
+  {
+    "FciId": 93,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Cão da Serra de Aires"
+  },
+  {
+    "FciId": 94,
+    "GroupId": 5,
+    "SectionId": 7,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Jagende oertypen",
+    
+    "BreedName": "Podengo português"
+  },
+  {
+    "FciId": 95,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Epagneul breton"
+  },
+  {
+    "FciId": 96,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Rafeiro do Alentejo"
+  },
+  {
+    "FciId": 97,
+    "GroupId": 5,
+    "SectionId": 4,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Europese keeshonden",
+    
+    "BreedName": "Keeshond"
+  },
+  {
+    "FciId": 98,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Duitse staande hond (draadhaar)"
+  },
+  {
+    "FciId": 99,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Weimarse staande hond"
+  },
+  {
+    "FciId": 100,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Westfaalse dasbrak"
+  },
+  {
+    "FciId": 101,
+    "GroupId": 9,
+    "SectionId": 11,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Dwergdoggen",
+    
+    "BreedName": "Franse buldog"
+  },
+  {
+    "FciId": 102,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Kleine münsterländer"
+  },
+  {
+    "FciId": 103,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Duitse jachtterriër"
+  },
+  {
+    "FciId": 104,
+    "GroupId": 8,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Opjagende honden",
+    
+    "BreedName": "Duitse wachtelhond"
+  },
+  {
+    "FciId": 105,
+    "GroupId": 8,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Waterhonden",
+    
+    "BreedName": "Barbet"
+  },
+  {
+    "FciId": 106,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Epagneul bleu de Picardie"
+  },
+  {
+    "FciId": 107,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Griffon Korthals"
+  },
+  {
+    "FciId": 108,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Epagneul picard"
+  },
+  {
+    "FciId": 109,
+    "GroupId": 8,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Opjagende honden",
+    
+    "BreedName": "Clumberspaniël"
+  },
+  {
+    "FciId": 110,
+    "GroupId": 8,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Retrievers",
+    
+    "BreedName": "Curly coated retriever"
+  },
+  {
+    "FciId": 111,
+    "GroupId": 8,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Retrievers",
+    
+    "BreedName": "Golden retriever"
+  },
+  {
+    "FciId": 113,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Briard"
+  },
+  {
+    "FciId": 114,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Epagneul de Pont-Audemer"
+  },
+  {
+    "FciId": 115,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Braque Saint-Germain"
+  },
+  {
+    "FciId": 116,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Bordeauxdog"
+  },
+  {
+    "FciId": 117,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Duitse staande hond (langhaar)"
+  },
+  {
+    "FciId": 118,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Grote münsterländer"
+  },
+  {
+    "FciId": 119,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Duitse staande hond (korthaar)"
+  },
+  {
+    "FciId": 120,
+    "GroupId": 7,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Britse en Ierse pointers en setters",
+    
+    "BreedName": "Ierse setter"
+  },
+  {
+    "FciId": 121,
+    "GroupId": 8,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Opjagende honden",
+    
+    "BreedName": "Flatcoated retriever"
+  },
+  {
+    "FciId": 122,
+    "GroupId": 8,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Retrievers",
+    
+    "BreedName": "Labrador retriever"
+  },
+  {
+    "FciId": 123,
+    "GroupId": 8,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Opjagende honden",
+    
+    "BreedName": "Fieldspaniël"
+  },
+  {
+    "FciId": 124,
+    "GroupId": 8,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Waterhonden",
+    
+    "BreedName": "Ierse waterspaniël"
+  },
+  {
+    "FciId": 125,
+    "GroupId": 8,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Opjagende honden",
+    
+    "BreedName": "Engelse springerspaniël"
+  },
+  {
+    "FciId": 126,
+    "GroupId": 8,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Opjagende honden",
+    
+    "BreedName": "Welshe springerspaniël"
+  },
+  {
+    "FciId": 127,
+    "GroupId": 8,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Opjagende honden",
+    
+    "BreedName": "Sussex-spaniël"
+  },
+  {
+    "FciId": 128,
+    "GroupId": 9,
+    "SectionId": 7,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Engelse dwergspaniëls",
+    
+    "BreedName": "King Charles-spaniël"
+  },
+  {
+    "FciId": 129,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Smalandstövare"
+  },
+  {
+    "FciId": 130,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Drever"
+  },
+  {
+    "FciId": 131,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Schillerstövare"
+  },
+  {
+    "FciId": 132,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Hamiltonstövare"
+  },
+  {
+    "FciId": 133,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Braque français, type Gascogne"
+  },
+  {
+    "FciId": 134,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Braque français, type Pyrénées"
+  },
+  {
+    "FciId": 135,
+    "GroupId": 5,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische waak- en herdershonden",
+    
+    "BreedName": "Zweedse lappenhond"
+  },
+  {
+    "FciId": 136,
+    "GroupId": 9,
+    "SectionId": 7,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Engelse dwergspaniëls",
+    
+    "BreedName": "Cavalier King Charles-spaniël"
+  },
+  {
+    "FciId": 137,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Pyrenese berghond"
+  },
+  {
+    "FciId": 138,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Pyrenese herdershond à Face Rase"
+  },
+  {
+    "FciId": 139,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Ierse terriër"
+  },
+  {
+    "FciId": 140,
+    "GroupId": 9,
+    "SectionId": 11,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Dwergdoggen",
+    
+    "BreedName": "Bostonterriër"
+  },
+  {
+    "FciId": 141,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Pyrenese herdershond à Poil Long"
+  },
+  {
+    "FciId": 142,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Slovenský čuvač"
+  },
+  {
+    "FciId": 143,
+    "GroupId": 2,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Pinschers en schnauzers",
+    
+    "BreedName": "Dobermann"
+  },
+  {
+    "FciId": 144,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Boxer"
+  },
+  {
+    "FciId": 145,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Leonberger"
+  },
+  {
+    "FciId": 146,
+    "GroupId": 6,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Verwante rassen",
+    
+    "BreedName": "Pronkrug"
+  },
+  {
+    "FciId": 147,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Rottweiler"
+  },
+  {
+    "FciId": 148,
+    "GroupId": 4,
+    "SectionId": 0,
+    
+    "GroupName": "Rasgroep 4: Dashonden",
+    "SectionName": "#N/A",
+    
+    "BreedName": "Dashond"
+  },
+  {
+    "FciId": 149,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Engelse buldog"
+  },
+  {
+    "FciId": 150,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Srpski gonic"
+  },
+  {
+    "FciId": 151,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Istarski kratkodlaki gonic"
+  },
+  {
+    "FciId": 152,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Istarski ostrodlaki gonic"
+  },
+  {
+    "FciId": 153,
+    "GroupId": 6,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Verwante rassen",
+    
+    "BreedName": "Dalmatiër"
+  },
+  {
+    "FciId": 154,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Posavski gonic"
+  },
+  {
+    "FciId": 155,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Bosanski ostrodlaki gonic barak"
+  },
+  {
+    "FciId": 156,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Schotse herdershond - langhaar"
+  },
+  {
+    "FciId": 157,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Bullmastiff"
+  },
+  {
+    "FciId": 158,
+    "GroupId": 10,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Gladharige windhonden",
+    
+    "BreedName": "Greyhound"
+  },
+  {
+    "FciId": 159,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Foxhound"
+  },
+  {
+    "FciId": 160,
+    "GroupId": 10,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Ruwharige windhonden",
+    
+    "BreedName": "Ierse wolfshond"
+  },
+  {
+    "FciId": 161,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Beagle"
+  },
+  {
+    "FciId": 162,
+    "GroupId": 10,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Gladharige windhonden",
+    
+    "BreedName": "Whippet"
+  },
+  {
+    "FciId": 163,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Basset hound"
+  },
+  {
+    "FciId": 164,
+    "GroupId": 10,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Ruwharige windhonden",
+    
+    "BreedName": "Deerhound"
+  },
+  {
+    "FciId": 165,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Spinone italiano"
+  },
+  {
+    "FciId": 166,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Duitse herder"
+  },
+  {
+    "FciId": 167,
+    "GroupId": 8,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Opjagende honden",
+    
+    "BreedName": "Amerikaanse cockerspaniël"
+  },
+  {
+    "FciId": 168,
+    "GroupId": 3,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Kleine terriërs",
+    
+    "BreedName": "Dandie Dinmont-terriër"
+  },
+  {
+    "FciId": 169,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Foxterriër - draadhaar"
+  },
+  {
+    "FciId": 170,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Cão de Castro Laboreiro"
+  },
+  {
+    "FciId": 171,
+    "GroupId": 1,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Veedrijvers",
+    
+    "BreedName": "Bouvier des Ardennes"
+  },
+  {
+    "FciId": 172,
+    "GroupId": 9,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Poedels",
+    
+    "BreedName": "Franse poedel"
+  },
+  {
+    "FciId": 173,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Cão da Serra da Estrela"
+  },
+  {
+    "FciId": 174,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Griffon Boulet"
+  },
+  {
+    "FciId": 175,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Epagneul français"
+  },
+  {
+    "FciId": 176,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Picardische herdershond"
+  },
+  {
+    "FciId": 177,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Braque de l'Ariège"
+  },
+  {
+    "FciId": 178,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Braque Dupuy"
+  },
+  {
+    "FciId": 179,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Braque du Bourbonnais"
+  },
+  {
+    "FciId": 180,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Braque d'Auvergne"
+  },
+  {
+    "FciId": 181,
+    "GroupId": 2,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Pinschers en schnauzers",
+    
+    "BreedName": "Riesenschnauzer"
+  },
+  {
+    "FciId": 182,
+    "GroupId": 2,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Pinschers en schnauzers",
+    
+    "BreedName": "Middenslagschnauzer"
+  },
+  {
+    "FciId": 183,
+    "GroupId": 2,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Pinschers en schnauzers",
+    
+    "BreedName": "Dwergschnauzer"
+  },
+  {
+    "FciId": 184,
+    "GroupId": 2,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Pinschers en schnauzers",
+    
+    "BreedName": "Duitse pinscher"
+  },
+  {
+    "FciId": 185,
+    "GroupId": 2,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Pinschers en schnauzers",
+    
+    "BreedName": "Dwergpinscher"
+  },
+  {
+    "FciId": 186,
+    "GroupId": 2,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Pinschers en schnauzers",
+    
+    "BreedName": "Affenpinscher"
+  },
+  {
+    "FciId": 187,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Perdigueiro português"
+  },
+  {
+    "FciId": 188,
+    "GroupId": 10,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Gladharige windhonden",
+    
+    "BreedName": "Sloughi"
+  },
+  {
+    "FciId": 189,
+    "GroupId": 5,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische waak- en herdershonden",
+    
+    "BreedName": "Finse lappenhond"
+  },
+  {
+    "FciId": 190,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Hovawart"
+  },
+  {
+    "FciId": 191,
+    "GroupId": 1,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Veedrijvers",
+    
+    "BreedName": "Vlaamse koehond"
+  },
+  {
+    "FciId": 192,
+    "GroupId": 9,
+    "SectionId": 10,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Kromfohrländer",
+    
+    "BreedName": "Kromfohrländer"
+  },
+  {
+    "FciId": 193,
+    "GroupId": 10,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Windhonden met bevedering of lange vacht",
+    
+    "BreedName": "Barzoi"
+  },
+  {
+    "FciId": 194,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Bergamasco"
+  },
+  {
+    "FciId": 195,
+    "GroupId": 5,
+    "SectionId": 4,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Europese keeshonden",
+    
+    "BreedName": "Volpino italiano"
+  },
+  {
+    "FciId": 196,
+    "GroupId": 9,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Bichons",
+    
+    "BreedName": "Bolognezer"
+  },
+  {
+    "FciId": 197,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Mastino napoletano"
+  },
+  {
+    "FciId": 198,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Segugio italiano - ruwhaar"
+  },
+  {
+    "FciId": 199,
+    "GroupId": 5,
+    "SectionId": 7,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Jagende oertypen",
+    
+    "BreedName": "Cirneco dell'Etna"
+  },
+  {
+    "FciId": 200,
+    "GroupId": 10,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Gladharige windhonden",
+    
+    "BreedName": "Italiaans windhondje"
+  },
+  {
+    "FciId": 201,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Berghond van de Maremmen en Abruzzen"
+  },
+  {
+    "FciId": 202,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Bracco italiano"
+  },
+  {
+    "FciId": 203,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Dunker"
+  },
+  {
+    "FciId": 204,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Sabueso español"
+  },
+  {
+    "FciId": 205,
+    "GroupId": 5,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Aziatische keeshonden",
+    
+    "BreedName": "Chowchow"
+  },
+  {
+    "FciId": 206,
+    "GroupId": 9,
+    "SectionId": 8,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Chin en pekingees",
+    
+    "BreedName": "Japanse spaniël"
+  },
+  {
+    "FciId": 207,
+    "GroupId": 9,
+    "SectionId": 8,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Chin en pekingees",
+    
+    "BreedName": "Pekingees"
+  },
+  {
+    "FciId": 208,
+    "GroupId": 9,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Tibetaanse rassen",
+    
+    "BreedName": "Shih tzu"
+  },
+  {
+    "FciId": 209,
+    "GroupId": 9,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Tibetaanse rassen",
+    
+    "BreedName": "Tibetaanse terriër"
+  },
+  {
+    "FciId": 211,
+    "GroupId": 5,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Sledehonden",
+    
+    "BreedName": "Canadese eskimohond"
+  },
+  {
+    "FciId": 212,
+    "GroupId": 5,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Sledehonden",
+    
+    "BreedName": "Samojeed"
+  },
+  {
+    "FciId": 213,
+    "GroupId": 6,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Zweethonden",
+    
+    "BreedName": "Hannoveraanse zweethond"
+  },
+  {
+    "FciId": 214,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Hellinikos ichnilatis"
+  },
+  {
+    "FciId": 215,
+    "GroupId": 9,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Bichons",
+    
+    "BreedName": "Bichon frisé"
+  },
+  {
+    "FciId": 216,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Poedelpointer"
+  },
+  {
+    "FciId": 217,
+    "GroupId": 6,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Zweethonden",
+    
+    "BreedName": "Beierse bergzweethond"
+  },
+  {
+    "FciId": 218,
+    "GroupId": 9,
+    "SectionId": 6,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Chihuahua",
+    
+    "BreedName": "Chihuahua"
+  },
+  {
+    "FciId": 219,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Français tricolore"
+  },
+  {
+    "FciId": 220,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Français blanc et noir"
+  },
+  {
+    "FciId": 221,
+    "GroupId": 8,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Waterhonden",
+    
+    "BreedName": "Wetterhoun"
+  },
+  {
+    "FciId": 222,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Stabij"
+  },
+  {
+    "FciId": 223,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Hollandse herder"
+  },
+  {
+    "FciId": 224,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Drentsche patrijshond"
+  },
+  {
+    "FciId": 225,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Fila brasileiro"
+  },
+  {
+    "FciId": 226,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Landseer ECT"
+  },
+  {
+    "FciId": 227,
+    "GroupId": 9,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Tibetaanse rassen",
+    
+    "BreedName": "Lhasa apso"
+  },
+  {
+    "FciId": 228,
+    "GroupId": 10,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Windhonden met bevedering of lange vacht",
+    
+    "BreedName": "Afghaanse windhond"
+  },
+  {
+    "FciId": 229,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Srpski trobojni gonic"
+  },
+  {
+    "FciId": 230,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Tibetaanse mastiff"
+  },
+  {
+    "FciId": 231,
+    "GroupId": 9,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Tibetaanse rassen",
+    
+    "BreedName": "Tibetaanse spaniël"
+  },
+  {
+    "FciId": 232,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Duitse staande hond (stekelhaar)"
+  },
+  {
+    "FciId": 233,
+    "GroupId": 9,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Bichons",
+    
+    "BreedName": "Leeuwhondje"
+  },
+  {
+    "FciId": 234,
+    "GroupId": 5,
+    "SectionId": 6,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Oertypen",
+    
+    "BreedName": "Mexicaanse naakthond"
+  },
+  {
+    "FciId": 235,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Duitse dog"
+  },
+  {
+    "FciId": 236,
+    "GroupId": 3,
+    "SectionId": 4,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Terriërs van het type dwerghond",
+    
+    "BreedName": "Australische silkyterriër"
+  },
+  {
+    "FciId": 237,
+    "GroupId": 5,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische waak- en herdershonden",
+    
+    "BreedName": "Noorse buhund"
+  },
+  {
+    "FciId": 238,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Mudi"
+  },
+  {
+    "FciId": 239,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Vizsla - draadhaar"
+  },
+  {
+    "FciId": 240,
+    "GroupId": 10,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Gladharige windhonden",
+    
+    "BreedName": "Hongaarse windhond"
+  },
+  {
+    "FciId": 241,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Erdélyi kopó"
+  },
+  {
+    "FciId": 242,
+    "GroupId": 5,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische jachthonden",
+    
+    "BreedName": "Noorse elandhond - grijs"
+  },
+  {
+    "FciId": 243,
+    "GroupId": 5,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Sledehonden",
+    
+    "BreedName": "Alaska-malamute"
+  },
+  {
+    "FciId": 244,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Slovensky kopov"
+  },
+  {
+    "FciId": 245,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Český fousek"
+  },
+  {
+    "FciId": 246,
+    "GroupId": 3,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Kleine terriërs",
+    
+    "BreedName": "Ceskyterriër"
+  },
+  {
+    "FciId": 247,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Aidi"
+  },
+  {
+    "FciId": 248,
+    "GroupId": 5,
+    "SectionId": 6,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Oertypen",
+    
+    "BreedName": "Pharaohond"
+  },
+  {
+    "FciId": 249,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Ca de Bou"
+  },
+  {
+    "FciId": 250,
+    "GroupId": 9,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Bichons",
+    
+    "BreedName": "Havanezer"
+  },
+  {
+    "FciId": 251,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Polski owczarek nizinny"
+  },
+  {
+    "FciId": 252,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Tatrahond"
+  },
+  {
+    "FciId": 253,
+    "GroupId": 9,
+    "SectionId": 11,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Dwergdoggen",
+    
+    "BreedName": "Mopshond"
+  },
+  {
+    "FciId": 254,
+    "GroupId": 6,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Zweethonden",
+    
+    "BreedName": "Alpenländische Dachsbracke"
+  },
+  {
+    "FciId": 255,
+    "GroupId": 5,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Aziatische keeshonden",
+    
+    "BreedName": "Akita"
+  },
+  {
+    "FciId": 257,
+    "GroupId": 5,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Aziatische keeshonden",
+    
+    "BreedName": "Shiba"
+  },
+  {
+    "FciId": 259,
+    "GroupId": 3,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Kleine terriërs",
+    
+    "BreedName": "Japanse terriër"
+  },
+  {
+    "FciId": 260,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Tosa"
+  },
+  {
+    "FciId": 261,
+    "GroupId": 5,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Aziatische keeshonden",
+    
+    "BreedName": "Hokkaido"
+  },
+  {
+    "FciId": 262,
+    "GroupId": 5,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Aziatische keeshonden",
+    
+    "BreedName": "Japanse spits"
+  },
+  {
+    "FciId": 263,
+    "GroupId": 8,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Retrievers",
+    
+    "BreedName": "Chesapeake Bayretriever"
+  },
+  {
+    "FciId": 264,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Mastiff"
+  },
+  {
+    "FciId": 265,
+    "GroupId": 5,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische jachthonden",
+    
+    "BreedName": "Noorse lundehond"
+  },
+  {
+    "FciId": 266,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Hygenhund"
+  },
+  {
+    "FciId": 267,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Haldenstøvare"
+  },
+  {
+    "FciId": 268,
+    "GroupId": 5,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische jachthonden",
+    
+    "BreedName": "Noorse elandhond - zwart"
+  },
+  {
+    "FciId": 269,
+    "GroupId": 10,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Windhonden met bevedering of lange vacht",
+    
+    "BreedName": "Saluki"
+  },
+  {
+    "FciId": 270,
+    "GroupId": 5,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Sledehonden",
+    
+    "BreedName": "Siberische husky"
+  },
+  {
+    "FciId": 271,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Bearded collie"
+  },
+  {
+    "FciId": 272,
+    "GroupId": 3,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Kleine terriërs",
+    
+    "BreedName": "Norfolkterriër"
+  },
+  {
+    "FciId": 273,
+    "GroupId": 5,
+    "SectionId": 6,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Oertypen",
+    
+    "BreedName": "Kanaänhond"
+  },
+  {
+    "FciId": 274,
+    "GroupId": 5,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Sledehonden",
+    
+    "BreedName": "Groenlandse hond"
+  },
+  {
+    "FciId": 276,
+    "GroupId": 5,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische jachthonden",
+    
+    "BreedName": "Norrbottenspets"
+  },
+  {
+    "FciId": 277,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Kroatische herder"
+  },
+  {
+    "FciId": 278,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Kraški ovčar"
+  },
+  {
+    "FciId": 279,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Crnogorski planinski gonic"
+  },
+  {
+    "FciId": 281,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Gammel dansk hønsehund"
+  },
+  {
+    "FciId": 282,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Grand griffon vendéen"
+  },
+  {
+    "FciId": 283,
+    "GroupId": 9,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Bichons",
+    
+    "BreedName": "Coton de Tuléar"
+  },
+  {
+    "FciId": 284,
+    "GroupId": 5,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische waak- en herdershonden",
+    
+    "BreedName": "Lapinporokoira"
+  },
+  {
+    "FciId": 285,
+    "GroupId": 10,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Gladharige windhonden",
+    
+    "BreedName": "Galgo español"
+  },
+  {
+    "FciId": 286,
+    "GroupId": 3,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Terriërs van het type buldog",
+    
+    "BreedName": "Amerikaanse staffordshireterriër"
+  },
+  {
+    "FciId": 287,
+    "GroupId": 1,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Veedrijvers",
+    
+    "BreedName": "Australische veedrijvershond"
+  },
+  {
+    "FciId": 288,
+    "GroupId": 9,
+    "SectionId": 4,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Naakthonden",
+    
+    "BreedName": "Chinese gekuifde naakthond"
+  },
+  {
+    "FciId": 289,
+    "GroupId": 5,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische waak- en herdershonden",
+    
+    "BreedName": "IJslandse hond"
+  },
+  {
+    "FciId": 290,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Beagle-harrier"
+  },
+  {
+    "FciId": 291,
+    "GroupId": 5,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Aziatische keeshonden",
+    
+    "BreedName": "Eurasiër"
+  },
+  {
+    "FciId": 292,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Argentijnse dog"
+  },
+  {
+    "FciId": 293,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Kelpie"
+  },
+  {
+    "FciId": 294,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Otterhound"
+  },
+  {
+    "FciId": 295,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Harrier"
+  },
+  {
+    "FciId": 296,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Schotse herdershond - korthaar"
+  },
+  {
+    "FciId": 297,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Bordercollie"
+  },
+  {
+    "FciId": 298,
+    "GroupId": 8,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Waterhonden",
+    
+    "BreedName": "Lagotto romagnolo"
+  },
+  {
+    "FciId": 299,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Duitse brak"
+  },
+  {
+    "FciId": 300,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Black and tan coonhound"
+  },
+  {
+    "FciId": 301,
+    "GroupId": 8,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Waterhonden",
+    
+    "BreedName": "Amerikaanse waterspaniël"
+  },
+  {
+    "FciId": 302,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Glen of Imaalterriër"
+  },
+  {
+    "FciId": 303,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "American foxhound"
+  },
+  {
+    "FciId": 304,
+    "GroupId": 5,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische jachthonden",
+    
+    "BreedName": "Russisch-Europese laika"
+  },
+  {
+    "FciId": 305,
+    "GroupId": 5,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische jachthonden",
+    
+    "BreedName": "Oost-Siberische laika"
+  },
+  {
+    "FciId": 306,
+    "GroupId": 5,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Scandinavische jachthonden",
+    
+    "BreedName": "Westsiberische laika"
+  },
+  {
+    "FciId": 307,
+    "GroupId": 10,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Gladharige windhonden",
+    
+    "BreedName": "Azawakh"
+  },
+  {
+    "FciId": 308,
+    "GroupId": 2,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Pinschers en schnauzers",
+    
+    "BreedName": "Hollandse smoushond"
+  },
+  {
+    "FciId": 309,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Shar-pei"
+  },
+  {
+    "FciId": 310,
+    "GroupId": 5,
+    "SectionId": 6,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Oertypen",
+    
+    "BreedName": "Peruaanse naakthond"
+  },
+  {
+    "FciId": 311,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Saarlooswolfhond"
+  },
+  {
+    "FciId": 312,
+    "GroupId": 8,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Retrievers",
+    
+    "BreedName": "Nova Scotia duck tolling retriever"
+  },
+  {
+    "FciId": 313,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Schapendoes"
+  },
+  {
+    "FciId": 314,
+    "GroupId": 8,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Opjagende honden",
+    
+    "BreedName": "Kooikerhondje"
+  },
+  {
+    "FciId": 315,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Broholmer"
+  },
+  {
+    "FciId": 316,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Français blanc et orange"
+  },
+  {
+    "FciId": 317,
+    "GroupId": 5,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Aziatische keeshonden",
+    
+    "BreedName": "Kai"
+  },
+  {
+    "FciId": 318,
+    "GroupId": 5,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Aziatische keeshonden",
+    
+    "BreedName": "Kishu"
+  },
+  {
+    "FciId": 319,
+    "GroupId": 5,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Aziatische keeshonden",
+    
+    "BreedName": "Shikoku"
+  },
+  {
+    "FciId": 320,
+    "GroupId": 7,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Continentale voorstaande honden",
+    
+    "BreedName": "Slovenský hrubosrstý stavač"
+  },
+  {
+    "FciId": 321,
+    "GroupId": 1,
+    "SectionId": 6,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "#N/A",
+    
+    "BreedName": "Ca de bestiar"
+  },
+  {
+    "FciId": 322,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Grand anglo-français tricolore"
+  },
+  {
+    "FciId": 323,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Grand anglo-français blanc et noir"
+  },
+  {
+    "FciId": 324,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Grand anglo-français blanc et orange"
+  },
+  {
+    "FciId": 325,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Anglo-français de petit vénerie"
+  },
+  {
+    "FciId": 326,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Zuid-Russische owcharka"
+  },
+  {
+    "FciId": 327,
+    "GroupId": 2,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Pinschers en schnauzers",
+    
+    "BreedName": "Zwarte Russische terriër"
+  },
+  {
+    "FciId": 328,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Kaukasische owcharka"
+  },
+  {
+    "FciId": 329,
+    "GroupId": 5,
+    "SectionId": 7,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Jagende oertypen",
+    
+    "BreedName": "Podenco canario"
+  },
+  {
+    "FciId": 330,
+    "GroupId": 7,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 7: Voorstaande Honden",
+    "SectionName": "Sectie Britse en Ierse pointers en setters",
+    
+    "BreedName": "Rood-witte Ierse setter"
+  },
+  {
+    "FciId": 331,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Anatolische herder"
+  },
+  {
+    "FciId": 332,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Tsjecho-Slowaakse wolfhond"
+  },
+  {
+    "FciId": 333,
+    "GroupId": 10,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 10: Windhonden",
+    "SectionName": "Sectie Gladharige windhonden",
+    
+    "BreedName": "Chart polski"
+  },
+  {
+    "FciId": 334,
+    "GroupId": 5,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Aziatische keeshonden",
+    
+    "BreedName": "Koreaanse jindohond"
+  },
+  {
+    "FciId": 335,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Centraal-Aziatische owcharka"
+  },
+  {
+    "FciId": 336,
+    "GroupId": 8,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 8: Retrievers, Spaniels en Waterhonden",
+    "SectionName": "Sectie Waterhonden",
+    
+    "BreedName": "Perro de agua español"
+  },
+  {
+    "FciId": 337,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Segugio italiano - korthaar"
+  },
+  {
+    "FciId": 338,
+    "GroupId": 5,
+    "SectionId": 8,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Jagende oertypen met pronk",
+    
+    "BreedName": "Thai ridgebackdog"
+  },
+  {
+    "FciId": 339,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Parson Russell-terriër"
+  },
+  {
+    "FciId": 340,
+    "GroupId": 1,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Veedrijvers",
+    
+    "BreedName": "Cão de fila de São Miguel"
+  },
+  {
+    "FciId": 341,
+    "GroupId": 3,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Grote- en Middenslagterriërs",
+    
+    "BreedName": "Braziliaanse terriër"
+  },
+  {
+    "FciId": 342,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Australische herder"
+  },
+  {
+    "FciId": 343,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Cane corso"
+  },
+  {
+    "FciId": 344,
+    "GroupId": 5,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Aziatische keeshonden",
+    
+    "BreedName": "Amerikaanse akita"
+  },
+  {
+    "FciId": 345,
+    "GroupId": 3,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Kleine terriërs",
+    
+    "BreedName": "Jackrussellterriër"
+  },
+  {
+    "FciId": 346,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Dogo canario"
+  },
+  {
+    "FciId": 347,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Zwitserse witte herder"
+  },
+  {
+    "FciId": 348,
+    "GroupId": 5,
+    "SectionId": 7,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Jagende oertypen",
+    
+    "BreedName": "Taiwandog"
+  },
+  {
+    "FciId": 349,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Ciobanesc romanesc mioritic"
+  },
+  {
+    "FciId": 350,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Ciobanesc romanesc carpatin"
+  },
+  {
+    "FciId": 351,
+    "GroupId": 1,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Veedrijvers",
+    
+    "BreedName": "Australian stumpy tail cattle dog"
+  },
+  {
+    "FciId": 352,
+    "GroupId": 9,
+    "SectionId": 9,
+    
+    "GroupName": "Rasgroep 9: Gezelschapshonden",
+    "SectionName": "Sectie Continentale dwergspaniëls",
+    
+    "BreedName": "Russische toyterriër"
+  },
+  {
+    "FciId": 353,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Cimarrón Uruguayo"
+  },
+  {
+    "FciId": 354,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Gończy Polski"
+  },
+  {
+    "FciId": 355,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Tornjak"
+  },
+  {
+    "FciId": 356,
+    "GroupId": 2,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Pinschers en schnauzers",
+    
+    "BreedName": "Deens-Zweedse boerderijhond"
+  },
+  {
+    "FciId": 357,
+    "GroupId": 2,
+    "SectionId": 2,
+    
+    "GroupName": "Rasgroep 2: Pinschers, schnauzers, molossers en sennenhonden",
+    "SectionName": "Sectie Molossers en berghonden",
+    
+    "BreedName": "Ciobanesc Romanesc de Bucovina"
+  },
+  {
+    "FciId": 358,
+    "GroupId": 5,
+    "SectionId": 5,
+    
+    "GroupName": "Rasgroep 5: Spitsen en oertypen",
+    "SectionName": "Sectie Aziatische keeshonden",
+    
+    "BreedName": "Thai Bangkaew Dog"
+  },
+  {
+    "FciId": 359,
+    "GroupId": 3,
+    "SectionId": 3,
+    
+    "GroupName": "Rasgroep 3: Terriërs",
+    "SectionName": "Sectie Terriërs van het type buldog",
+    
+    "BreedName": "Miniatuur Bulterriër"
+  },
+  {
+    "FciId": 360,
+    "GroupId": 1,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 1: Herdershonden en veedrijvers",
+    "SectionName": "Sectie Herdershonden",
+    
+    "BreedName": "Lancashire heeler"
+  },
+  {
+    "FciId": 361,
+    "GroupId": 6,
+    "SectionId": 1,
+    
+    "GroupName": "Rasgroep 6: Lopende honden en zweethonden",
+    "SectionName": "Sectie Lopende honden",
+    
+    "BreedName": "Segugio Maremmano"
+  }
+]
